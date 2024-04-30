@@ -117,6 +117,11 @@ in
   # followed by the local config attrset
   mkAccentOpt = mkBasicOpt "accent" types.accentOption;
 
+  mkVersionedOpt = minimumVersion: opt:
+    if (lib.strings.versionAtLeast "23.05" minimumVersion)
+    then opt
+    else lib.options.mkSinkUndeclaredOptions {};
+
   assertXdgEnabled = name: {
     assertion = config.xdg.enable;
     message = "Option xdg.enable must be enabled to apply Catppuccin theming for ${name}";

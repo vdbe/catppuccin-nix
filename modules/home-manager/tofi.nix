@@ -9,8 +9,9 @@ let
   enable = cfg.enable && config.programs.tofi.enable;
 in
 {
-  options.programs.tofi.catppuccin =
-    lib.ctp.mkCatppuccinOpt "tofi";
+  options.programs.tofi = ctp.mkVersionedOpt "24.05" {
+    catppuccin = ctp.mkCatppuccinOpt "tofi";
+  };
 
   config.programs.tofi = lib.mkIf enable {
     settings = lib.ctp.fromINI (sources.tofi + /catppuccin-${cfg.flavour});
