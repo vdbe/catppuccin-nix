@@ -118,9 +118,11 @@ in
   mkAccentOpt = mkBasicOpt "accent" types.accentOption;
 
   mkVersionedOpt = minimumVersion: opt:
-    if (lib.strings.versionAtLeast "23.05" minimumVersion)
+    if (lib.strings.versionAtLeast
+      (config.home.version.release or config.system.nixos.version)
+      minimumVersion)
     then opt
-    else lib.options.mkSinkUndeclaredOptions {};
+    else lib.options.mkSinkUndeclaredOptions { };
 
   assertXdgEnabled = name: {
     assertion = config.xdg.enable;
