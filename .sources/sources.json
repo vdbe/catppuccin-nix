@@ -44,9 +44,9 @@
         "repo": "btop"
       },
       "branch": "main",
-      "revision": "c6469190f2ecf25f017d6120bf4e050e6b1d17af",
-      "url": "https://github.com/catppuccin/btop/archive/c6469190f2ecf25f017d6120bf4e050e6b1d17af.tar.gz",
-      "hash": "0ayhpfdldnmdb2xirrj2p85bcpi17kwza65b6ridakznhyblk1wf"
+      "revision": "21b8d5956a8b07fa52519e3267fb3a2d2e693d17",
+      "url": "https://github.com/catppuccin/btop/archive/21b8d5956a8b07fa52519e3267fb3a2d2e693d17.tar.gz",
+      "hash": "1hdh78314axpz96qvnl7dkgjd3b7sjq0l8k5h1iwir1mjz596xsi"
     },
     "cava": {
       "type": "Git",
@@ -104,9 +104,9 @@
         "repo": "fish"
       },
       "branch": "main",
-      "revision": "0ce27b518e8ead555dec34dd8be3df5bd75cff8e",
-      "url": "https://github.com/catppuccin/fish/archive/0ce27b518e8ead555dec34dd8be3df5bd75cff8e.tar.gz",
-      "hash": "1a6yj6zhccpg5jpcrxjzxyydh5ldwlvwf3vz6lwl60gk2xvz7kqd"
+      "revision": "a3b9eb5eaf2171ba1359fe98f20d226c016568cf",
+      "url": "https://github.com/catppuccin/fish/archive/a3b9eb5eaf2171ba1359fe98f20d226c016568cf.tar.gz",
+      "hash": "0y7j8qcc88vwh6ig7whibndndk243cavaml619075f8s5abk255j"
     },
     "foot": {
       "type": "Git",
@@ -176,9 +176,9 @@
         "repo": "gtk"
       },
       "branch": "main",
-      "revision": "0c3e8817da94769887c690b2211e006b287b27b1",
-      "url": "https://github.com/catppuccin/gtk/archive/0c3e8817da94769887c690b2211e006b287b27b1.tar.gz",
-      "hash": "0lssds5w78csb9hm22wilaglp9yj2bln7n1d57b2zmb05d3fj8kl"
+      "revision": "febd32f208ebfc0a649674b9b3b94cd21fc10fb2",
+      "url": "https://github.com/catppuccin/gtk/archive/febd32f208ebfc0a649674b9b3b94cd21fc10fb2.tar.gz",
+      "hash": "1j0g5skpassbf6qpp2sxi97p8xbirjc3p8awwn6q5vnlmlr46z34"
     },
     "helix": {
       "type": "Git",
@@ -248,9 +248,9 @@
         "repo": "lazygit"
       },
       "branch": "main",
-      "revision": "30bff2e6d14ca12a09d71e5ce4e6a086b3e48aa6",
-      "url": "https://github.com/catppuccin/lazygit/archive/30bff2e6d14ca12a09d71e5ce4e6a086b3e48aa6.tar.gz",
-      "hash": "0hw0vv0k5m6vs51iridbiqmhza59j26wmrkydx1gfijfrbn40qws"
+      "revision": "146a25ef722560fe74026c4dbd3186ef5faa5166",
+      "url": "https://github.com/catppuccin/lazygit/archive/146a25ef722560fe74026c4dbd3186ef5faa5166.tar.gz",
+      "hash": "010dri1gq629m77gb3hqx7fpm9r0h6vy76rn13jsdf7mpq6phw4q"
     },
     "mako": {
       "type": "Git",
@@ -284,9 +284,9 @@
         "repo": "mpv"
       },
       "branch": "main",
-      "revision": "7fc6ed93dec891865d0b42be42ba9b4fb7d5a338",
-      "url": "https://github.com/catppuccin/mpv/archive/7fc6ed93dec891865d0b42be42ba9b4fb7d5a338.tar.gz",
-      "hash": "10h7xl9fxrakibi1f61ca9l1i528fnhbyqfz16k096yiklr2aa22"
+      "revision": "6cbc49a38f23a4c3f3dc816e1d43389ca9675c1b",
+      "url": "https://github.com/catppuccin/mpv/archive/6cbc49a38f23a4c3f3dc816e1d43389ca9675c1b.tar.gz",
+      "hash": "0kmwd1lqk3sa2ixh69k3qnvns998jp3hpbbb5pfq8k9qr9yp3rlv"
     },
     "nvim": {
       "type": "Git",
@@ -308,9 +308,9 @@
         "repo": "palette"
       },
       "branch": "main",
-      "revision": "408f081b6402d5d17b8324b75c6db5998100757d",
-      "url": "https://github.com/catppuccin/palette/archive/408f081b6402d5d17b8324b75c6db5998100757d.tar.gz",
-      "hash": "1fs2rfg6rwiijh5ahljvjhyh8g4y3wab5plky1k1a33dc9ph2717"
+      "revision": "d751858ffffbff1ed19064ceba69d2a5515ec2bb",
+      "url": "https://github.com/catppuccin/palette/archive/d751858ffffbff1ed19064ceba69d2a5515ec2bb.tar.gz",
+      "hash": "00ac3dp35bviazknfwafgyzzkkw1qr4wvz5sm8iail2a6dyc91pw"
     },
     "polybar": {
       "type": "Git",
@@ -320,9 +320,9 @@
         "repo": "polybar"
       },
       "branch": "main",
-      "revision": "989420b24e1f651b176c9d6083ad7c3b90a27f8b",
-      "url": "https://github.com/catppuccin/polybar/archive/989420b24e1f651b176c9d6083ad7c3b90a27f8b.tar.gz",
-      "hash": "0wvshs5f54h0nfzf7pjwdhmj6xcngxqqvaqzxa3w5j7sk89nmwyr"
+      "revision": "271885f11aeed2900d2fe54d6f37ea639a55da8c",
+      "url": "https://github.com/catppuccin/polybar/archive/271885f11aeed2900d2fe54d6f37ea639a55da8c.tar.gz",
+      "hash": "01fbxyvhj1w5x3rzxkp7f67i9rdi3bg8q0k1d6lqzpn4ysgb6784"
     },
     "rio": {
       "type": "Git",
@@ -332,9 +332,9 @@
         "repo": "rio"
       },
       "branch": "main",
-      "revision": "a8d3d3c61f828da5f3d6d02d7d489108f6428178",
-      "url": "https://github.com/catppuccin/rio/archive/a8d3d3c61f828da5f3d6d02d7d489108f6428178.tar.gz",
-      "hash": "02h9n85ll02bs6fk6ypnv9f7pwhglfwpvwhz8bq5s9h3q7vgqgkd"
+      "revision": "b94a931c2e2156c6b2a80decb1983d41da41a26c",
+      "url": "https://github.com/catppuccin/rio/archive/b94a931c2e2156c6b2a80decb1983d41da41a26c.tar.gz",
+      "hash": "16pb5ybqhxq7k8k1dcqjqw276qvk4mnqhpzyhmwvmvrdxxpk1pkh"
     },
     "rofi": {
       "type": "Git",
@@ -404,9 +404,9 @@
         "repo": "tmux"
       },
       "branch": "main",
-      "revision": "697087f593dae0163e01becf483b192894e69e33",
-      "url": "https://github.com/catppuccin/tmux/archive/697087f593dae0163e01becf483b192894e69e33.tar.gz",
-      "hash": "0fimahk7yw2r3w562nazh6yhi4p8531w28p7pfk9nvlrmrcsfy0h"
+      "revision": "9da7bb5e2e4caf57c1845f79b33e6f410dfdc548",
+      "url": "https://github.com/catppuccin/tmux/archive/9da7bb5e2e4caf57c1845f79b33e6f410dfdc548.tar.gz",
+      "hash": "1lnrr8lj26hwhbnn3q90z8kyj79fninsbn6bwvn3is6yjbsg1jqa"
     },
     "tofi": {
       "type": "Git",
@@ -416,9 +416,9 @@
         "repo": "tofi"
       },
       "branch": "main",
-      "revision": "2e74ddba0c582b2ca2d9d06f67f5a902c3a093fb",
-      "url": "https://github.com/catppuccin/tofi/archive/2e74ddba0c582b2ca2d9d06f67f5a902c3a093fb.tar.gz",
-      "hash": "1izqm6vf6n8d1ig1hvmgzwm2azrswz2g3k0i97d2fnxnzk324k2x"
+      "revision": "d6106461867c077a5e1d25236e02b7be7c83839e",
+      "url": "https://github.com/catppuccin/tofi/archive/d6106461867c077a5e1d25236e02b7be7c83839e.tar.gz",
+      "hash": "0hfa7jmr83h5m89mv5bzmd0wnq7819g5433wnj2ahyw2kg8yvfxs"
     },
     "waybar": {
       "type": "Git",
